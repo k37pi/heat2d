@@ -8,8 +8,11 @@ The code files are organised as follows:
 3. **location.m** contains code to look for closest point inside the region. 
 
 Very useful pages:
--https://en.wikipedia.org/wiki/Divergence
--https://www.uni-muenster.de/imperia/md/content/physik_tp/lectures/ws2016-2017/num_methods_i/heat.pdf
+<ul>
+  <li>https://en.wikipedia.org/wiki/Divergence</li>
+  <li>https://www.uni-muenster.de/imperia/md/content/physik_tp/lectures/ws2016-2017/num_methods_i/heat.pdf</li>
+</ul>
+
 
 Thanks for visiting :)
  

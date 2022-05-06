@@ -1,3 +1,5 @@
+alld = 1:4; % directions up(1), down(2), left(3), right(4)
+
 M = 51; N = 101;
 D = 500; dx = 0.5; dy = dx; dt = 0.05; its = 500; 
 bc = "d"; % "D" for Dirichlet, "N" for Neumann

@@ -12,8 +12,6 @@ The code files are organised as follows:
 2. **dirichlet.m** conatins code for the Dirichlet bcs. **neumann.m** similarly. 
 3. **location.m** contains code to look for closest point inside the region. 
 
-The gif files are configured to 2 holes (1 circle, 1 rectangle) and 3 initial sources of different temperatures for Dirichlet and Neumann boundaries.  
-
 Very useful pages:
 <ul>
   <li>https://en.wikipedia.org/wiki/Divergence</li>
